@@ -1,0 +1,78 @@
+{
+  "name": "Drupal",
+  "references": [
+      "https://www.drupal.org/about/core/policies/core-release-cycles/schedule"
+  ],
+  "versions": {
+    "9.1": {
+      "release_date": "2020-12-02",
+      "active_support_until": "2021-06-16",
+      "security_support_until": "2021-12-08"
+    },
+    "9.0": {
+      "release_date": "2020-06-03",
+      "active_support_until": "2020-12-02",
+      "security_support_until": "2021-06-16"
+    },
+    "8.9": {
+      "release_date": "2020-06-03",
+      "active_support_until": "2020-12-01",
+      "security_support_until": "2021-11-01"
+    },
+    "8.8": {
+      "release_date": "2019-12-04",
+      "active_support_until": "2020-06-03",
+      "security_support_until": "2020-12-01"
+    },
+    "8.7": {
+      "release_date": "2019-05-01",
+      "active_support_until": "2019-12-04",
+      "security_support_until": "2020-06-03"
+    },
+    "8.6": {
+      "release_date": "2018-09-05",
+      "active_support_until": "2019-05-01",
+      "security_support_until": "2019-12-04"
+    },
+    "8.5": {
+      "release_date": "2018-03-07",
+      "active_support_until": "2018-09-05",
+      "security_support_until": "2019-05-01"
+    },
+    "8.4": {
+      "release_date": "2017-10-04",
+      "active_support_until": "2018-03-07",
+      "security_support_until": "2018-09-05"
+    },
+    "8.3": {
+      "release_date": "2017-04-05",
+      "active_support_until": "2017-10-04",
+      "security_support_until": "2018-03-07"
+    },
+    "8.2": {
+      "release_date": "2016-10-05",
+      "active_support_until": "2017-04-05",
+      "security_support_until": "2017-10-04"
+    },
+    "8.1": {
+      "release_date": "2016-04-20",
+      "active_support_until": "2016-10-05",
+      "security_support_until": "2017-04-05"
+    },
+    "8.0": {
+      "release_date": "2015-11-19",
+      "active_support_until": "2016-04-20",
+      "security_support_until": "2016-10-05"
+    },
+    "7": {
+      "release_date": "2011-01-05",
+      "active_support_until": "2015-11-19",
+      "security_support_until": "2022-11-28"
+    },
+    "6": {
+      "release_date": "2008-02-13",
+      "active_support_until": "2016-02-24",
+      "security_support_until": "2016-02-24"
+    }
+  }
+}
